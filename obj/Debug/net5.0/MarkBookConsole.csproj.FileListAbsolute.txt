@@ -1,0 +1,15 @@
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/bin/Debug/net5.0/MarkBookConsole.deps.json
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/bin/Debug/net5.0/MarkBookConsole.runtimeconfig.json
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/bin/Debug/net5.0/MarkBookConsole.runtimeconfig.dev.json
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/bin/Debug/net5.0/MarkBookConsole.dll
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/bin/Debug/net5.0/ref/MarkBookConsole.dll
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/bin/Debug/net5.0/MarkBookConsole.pdb
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.csproj.AssemblyReference.cache
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.AssemblyInfoInputs.cache
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.AssemblyInfo.cs
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.csproj.CoreCompileInputs.cache
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.dll
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/ref/MarkBookConsole.dll
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.pdb
+/Users/suryanshusingh/Developer/C#stuff/SchoolStuff/MarkBookConsole/obj/Debug/net5.0/MarkBookConsole.genruntimeconfig.cache
