@@ -1,5 +1,0 @@
-Name: James, Age: 17, Grade: 12, Courses: 3, Course 1: Math, Mark: 79, Course 2: Chemistry, Mark: 76, Course 3: Gym, Mark: 87, Course 4: 0, Mark: 0;
-Name: Sammy, Age: 17, Grade: 12, Courses: 2, Course 1: English, Mark: 89, Course 2: Law, Mark: 83, Course 3: 0, Mark: 0, Course 4: 0, Mark: 0;
-Name: Adil, Age: 14, Grade: 9, Courses: 4, Course 1: Math, Mark: 81, Course 2: Science, Mark: 78, Course 3: Gym, Mark: 86, Course 4: Art, Mark: 87;
-Name: Kevin, Age: 17, Grade: 12, Courses: 1, Course 1: Chemistry, Mark: 89, Course 2: 0, Mark: 0, Course 3: 0, Mark: 0, Course 4: 0, Mark: 0;
-Name: Jason, Age: 17, Grade: 12, Courses: 2, Course 1: Computer Science, Mark: 99, Course 2: English, Mark: 99, Course 3: 0, Mark: 0, Course 4: 0, Mark: 0;

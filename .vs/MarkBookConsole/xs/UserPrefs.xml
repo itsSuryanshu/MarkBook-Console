@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{B237E553-0429-4444-8EED-068820BB3A04}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Delete.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student.cs">
     <Files>
-      <File FileName="Delete.cs" Line="26" Column="14" />
-      <File FileName="page.txt" Line="5" Column="58" />
+      <File FileName="Program.cs" Line="21" Column="42" />
+      <File FileName="Student.cs" Line="105" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MarkBookConsole" expanded="True">
             <Node name="MarkBookConsole" expanded="True">
-              <Node name="Delete.cs" selected="True" />
+              <Node name="Student.cs" selected="True" />
             </Node>
           </Node>
         </State>
