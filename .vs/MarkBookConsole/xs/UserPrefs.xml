@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B237E553-0429-4444-8EED-068820BB3A04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delete.cs">
+    <Files>
+      <File FileName="Delete.cs" Line="26" Column="14" />
+      <File FileName="page.txt" Line="5" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarkBookConsole" expanded="True">
+            <Node name="MarkBookConsole" expanded="True">
+              <Node name="Delete.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MarkBookConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -105,7 +105,7 @@ namespace Inheritance_Assignment
 
             }
             StreamWriter sw = new StreamWriter("page.txt", true);
-            sw.WriteLine("Name: {0}, Age: {1}, Grade: {2}, Courses: {3}, Course 1: {4}, Mark: {5}, Course 2: {6}, Mark: {7}, Course 3: {8}, Mark: {9}, Course 4: {10}, Mark: {11}", name, age, grade, courses, course1, mark1, course2, mark2, course3, mark3, course4, mark4);
+            sw.WriteLine("Name: {0}, Age: {1}, Grade: {2}, Courses: {3}, Course 1: {4}, Mark: {5}, Course 2: {6}, Mark: {7}, Course 3: {8}, Mark: {9}, Course 4: {10}, Mark: {11};", name, age, grade, courses, course1, mark1, course2, mark2, course3, mark3, course4, mark4);
             sw.Close();
         }
 
